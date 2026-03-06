@@ -1,2 +1,2 @@
 # ceds-expense-tracker
-My personal expense tracker web application
+My personal expense tracker
